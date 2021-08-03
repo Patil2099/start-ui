@@ -1,0 +1,21 @@
+{
+  "dateAgo": {
+    "format": "dddd, DD MMMM YYYY, hh:mm a"
+  },
+  "actionsButton": {
+    "label": "أجراءات"
+  },
+  "confirmMenuItem": {
+    "confirmText": "انقر لتأكيد"
+  },
+  "pagination": {
+    "firstPage": "الصفحة الأولى",
+    "prevPage": "الصفحة السابقة",
+    "lastPage": "آخر صفحة",
+    "nextPage": "الصفحة التالية"
+  },
+  "searchInput": {
+    "placeholder": "بحث...",
+    "clear": "مسح البحث"
+  }
+}
